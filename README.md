@@ -50,7 +50,7 @@ MULTI_PERSON_DETECTION/
 ## 1. Clone the Repository and Navigate to the Project Folder
 
 ```bash
-cd MULTI_PERSON_DETECTION
+cd Multiple_person_detection
 ```
 
 ## 2. Create and Activate a Virtual Environment (Recommended)
