@@ -1,0 +1,5 @@
+{
+    "min_detection_confidence": 0.6,
+    "consecutive_frame_threshold": 5,
+    "max_allowed_people": 1
+}
